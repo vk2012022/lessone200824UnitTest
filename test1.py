@@ -11,5 +11,5 @@ class TestCheck(unittest.TestCase):
         self.assertFalse(check(3))
         self.assertFalse(check(57))
 
-if __name__ == '__main1__':
-    unittest.main1()
+if __name__ == '__main__':
+    unittest.main()

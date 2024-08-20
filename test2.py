@@ -10,5 +10,5 @@ class TestDivide(unittest.TestCase):
     def test_divide_by_zero(self):
         self.assertRaises(TypeError, divide, 6, 0)
 
-if __name__ == '__main2__':
-    unittest.main2()
+if __name__ == '__main__':
+    unittest.main()
